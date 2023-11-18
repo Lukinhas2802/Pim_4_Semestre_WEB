@@ -1,0 +1,53 @@
+﻿@model Pim___WEB.Models.Funcionarios
+@{
+    ViewData["Title"] = "Login";
+}
+
+    <title>Login</title>
+    <link rel="stylesheet" href="~/css/Index.css">
+<body>
+<header class="cabecalho">
+    <h1>Sistema de visualização de relatórios</h1>
+</header>
+
+<main>
+<section>
+    <div class="box">
+        <div class="box__itens">
+            
+            <img class="box__itens__logo" src="~/img/logo.png" alt="logo sistema">
+            
+            <div class="box__itens__form">
+                <h1 class="box__itens__form__titulo">Funcionário - Login</h1>
+            @using (Html.BeginForm("index", "Home", FormMethod.Post))
+            {
+                if (ViewBag.login_funcionario != null)
+                {
+                    if (ViewBag.login_funcionario == 0)
+                    {
+                        <h1 class="box__itens__form__erro">CPF ou Senha Inválidos</h1>
+                    }
+                     
+                }
+                <div class="box__itens__form__login">
+                    <img class="box__itens__form__login__imagens" src="~/img/Index/homem-usuario.png" alt="Imagem usuario">
+                    @Html.TextBoxFor(funcionario => funcionario.CPF, new {@placeholder = "CPF"})
+                </div>
+
+                <div class="box__itens__form__login">
+                    <img class="box__itens__form__login__imagens" src="~/img/Index/chaves.png" alt="Imagem senha">
+                    @Html.PasswordFor(funcionario => funcionario.Senha, new {@placeholder = "Senha"})
+                </div>
+
+                    <button type="submit" value="Login" class="box__itens__form__button"> Fazer Login </button>
+            }
+            </div>
+        </div>
+    </div>
+</section>
+</main>
+
+<footer class="rodape">
+    <p>Desenvolvido por Lukas | Todos os direitos reservados 2023</p>
+</footer>
+</body>

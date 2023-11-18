@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+    <link rel="stylesheet" href="~/css/menu.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <nav class="cabecalho__menu">
+            <div class="cabecalho__menu__link">
+                <a class="cabecalho__menu__link__navegacao" href="@Url.Action("VisualizarRelatorio", "Home")">Visualizar Relatórios </a>
+                <img class="cabecalho__menu__link__navegacao__imagem" src="~/img/Menu/docs.png" alt="Visualizar Relatório">
+                <a class="cabecalho__menu__link__navegacao" href="@Url.Action("VoltarInicio", "Home")"> Sair da Conta </a>
+                <img class="cabecalho__menu__link__navegacao__imagem" src="~/img/Menu/sair.png" alt="Sair da conta">
+            </div>
+        </nav>
+    </header>
+
+    <main class="apresentacao">
+        <section class="apresentacao__conteudo">
+            <h1 class="apresentacao__conteudo__titulo">Sistema de visualização de relatórios da empresa RHNIP</h1>
+            <h2 class="apresentacao__conteudo__subtitulo">Menu</h2>
+
+            <div class="apresentacao__conteudo__box">
+                <img class="apresentacao__conteudo__box__imagem" src="~/img/logo.png" alt="Logo da empresa">
+                <p class="apresentacao__conteudo__box__titulo">Bem-vindo @ViewBag.NomeFuncionarioLogado!</p>
+                <p class="apresentacao__conteudo__box__titulo">CPF: @ViewBag.CpfFuncionarioLogado</p>
+                <p class="apresentacao__conteudo__box__titulo">Cargo: @ViewBag.CargoFuncionarioLogado</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="rodape">
+        <p>Desenvolvido por Lukas | Todos os direitos reservados 2023</p>
+    </footer>
+</body>
+</html>

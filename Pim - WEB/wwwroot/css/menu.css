@@ -1,0 +1,127 @@
+﻿:root {
+    --cor-primaria: #5dc1B9;
+    --cor-secundaria: #000000;
+    --cor-terciaria: #0078d7;
+    --cor-hover: #5264de;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: var(--cor-primaria);
+    color: var(--cor-secundaria);
+}
+
+.cabecalho {
+    padding: 1.5% 15% 0% 15%;
+    justify-content: center;
+}
+
+.cabecalho__menu {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.cabecalho__menu__link {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+
+.cabecalho__menu__link__navegacao {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    border: 2px solid var(--cor-terciaria);
+    width: 25%;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding: 2% 2%;
+    text-decoration: none;
+    background-color: var(--cor-terciaria);
+    color: var(--cor-secundaria);
+}
+
+.cabecalho__menu__link__navegacao:hover {
+    background-color: var(--cor-hover);
+    padding: 3%;
+    color: var(--cor-secundaria);
+}
+
+.cabecalho__menu__link__navegacao__imagem {
+    height: 3.5rem;
+    right: 3.5rem;
+}
+
+.apresentacao {
+    padding: 5% 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5rem;
+}
+
+.apresentacao__conteudo {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5rem;
+}
+
+.apresentacao__conteudo__box {
+    height: 600px;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 30px;
+    background: transparent;
+    backdrop-filter: blur(10px);
+    box-shadow: 10px 10px 50px black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+}
+
+.apresentacao__conteudo__box__imagem {
+    height: 10rem;
+    width: 10rem;
+    margin-bottom: 2%;
+}
+
+.apresentacao__conteudo__box__titulo {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.rodape {
+    padding: 2% 0% 0% 2%;
+    gap: 5rem;
+    text-align: center;
+}
+
+@media (max-width: 1200px) {
+    .box {
+        flex-direction: column-reverse;
+        padding: 2%;
+        width: auto;
+    }
+}
+
+@media (max-width: 600px) {
+    .box {
+        flex-direction: column-reverse;
+        padding: 2%;
+        width: auto;
+    }
+}

@@ -1,0 +1,33 @@
+﻿@model List<Pim___WEB.Models.RelatorioPagamento>
+@{
+    ViewData["Title"] = "Visualizar Relatorios";
+    var ordenarRelatorio = Model.OrderByDescending(relatorioPagamento => relatorioPagamento.MesReferencia).ToList();
+}
+
+<link rel="stylesheet" href="~/css/relatorio.css">
+<title>Visualizar Holerites</title>
+
+<section>
+    <div class="box">
+            <header class="box__header">
+                <div class="box__header__itens">
+                    <h1 class="box__itens__header__div__titulo">Visualizar Holerites</h1>
+                    <a class="box__itens__header__div__link" href="@Url.Action("Menu", "Home")">Voltar</a>
+                </div>
+            </header>
+
+            @foreach (var RelatorioPagamento in ordenarRelatorio)
+            {
+                <div class="box__itens__div">
+                    <table class="box__itens__div__tabela">
+                        <tr><th>Mês Referência</th><td>@RelatorioPagamento.MesReferencia</td></tr>
+                        <tr><th>CPF</th><td>@RelatorioPagamento.CPF</td></tr>
+                        <tr><th>Salário Bruto</th><td>R$ @RelatorioPagamento.SalarioBruto</td></tr>
+                        <tr><th>Descontos</th><td>R$ @RelatorioPagamento.Descontos</td></tr>
+                        <tr><th>Salário Liquido</th><td>R$ @RelatorioPagamento.SalarioLiquido</td></tr>
+                        <tr><th>Total de Horas Trabalhadas</th><td>@RelatorioPagamento.HorasTrabalhadasMensal horas mensais</td></tr>
+                    </table>
+                </div>
+            }
+    </div>
+</section>
