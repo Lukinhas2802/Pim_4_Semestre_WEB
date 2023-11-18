@@ -1,0 +1,250 @@
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\appsettings.json
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.staticwebassets.runtime.json
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.exe
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.deps.json
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.runtimeconfig.json
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.pdb
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.csproj.AssemblyReference.cache
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.AssemblyInfoInputs.cache
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.AssemblyInfo.cs
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.RazorAssemblyInfo.cache
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.RazorAssemblyInfo.cs
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets\msbuild.Pim - WEB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets\msbuild.build.Pim - WEB.props
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pim - WEB.props
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pim - WEB.props
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\scopedcss\bundle\Pim - WEB.styles.css
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.csproj.CopyComplete
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\refint\Pim - WEB.dll
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.pdb
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.genruntimeconfig.cache
+C:\Users\Lukas\OneDrive\Área de Trabalho\LUKAS\FACULDADE\PIM 4\Pim - WEB\Pim - WEB\obj\Debug\net6.0\ref\Pim - WEB.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\appsettings.Development.json
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\appsettings.json
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.staticwebassets.runtime.json
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.exe
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.deps.json
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.runtimeconfig.json
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.pdb
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Azure.Core.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Azure.Identity.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Humanizer.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.CodeDom.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Text.Json.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.csproj.AssemblyReference.cache
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.AssemblyInfoInputs.cache
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.AssemblyInfo.cs
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.csproj.CoreCompileInputs.cache
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.MvcApplicationPartsAssemblyInfo.cache
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.RazorAssemblyInfo.cache
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.RazorAssemblyInfo.cs
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets.build.json
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets.development.json
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\scopedcss\bundle\Pim - WEB.styles.css
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.csproj.CopyComplete
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.dll
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\refint\Pim - WEB.dll
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.pdb
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.genruntimeconfig.cache
+D:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\ref\Pim - WEB.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\appsettings.Development.json
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\appsettings.json
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.staticwebassets.runtime.json
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.exe
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.deps.json
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.runtimeconfig.json
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Pim - WEB.pdb
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Azure.Core.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Azure.Identity.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Humanizer.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.CodeDom.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Text.Json.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Pim - WEB\Pim - WEB\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.csproj.AssemblyReference.cache
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.AssemblyInfoInputs.cache
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.AssemblyInfo.cs
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.csproj.CoreCompileInputs.cache
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.MvcApplicationPartsAssemblyInfo.cache
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.RazorAssemblyInfo.cache
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.RazorAssemblyInfo.cs
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets\msbuild.Pim - WEB.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets\msbuild.build.Pim - WEB.props
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pim - WEB.props
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pim - WEB.props
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets.build.json
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\staticwebassets.development.json
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\scopedcss\bundle\Pim - WEB.styles.css
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.csproj.CopyComplete
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.dll
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\refint\Pim - WEB.dll
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.pdb
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\Pim - WEB.genruntimeconfig.cache
+E:\Pim - WEB\Pim - WEB\obj\Debug\net6.0\ref\Pim - WEB.dll
