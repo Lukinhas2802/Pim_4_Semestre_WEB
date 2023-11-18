@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pim - WEB.props" />
+</Project>
